@@ -1,0 +1,6 @@
+# Requirements for Discord Bot
+
+discord.py
+python-dotenv
+wavelink
+# Add any other necessary packages here
